@@ -1,0 +1,24 @@
+
+
+===============================================
+Python Module Requirements for Sensor Software:
+===============================================
+
+RPi.GPIO
+time
+neopixel
+board
+socket,
+cv2 (opencv)
+pickle
+struct
+os
+datetime
+binascii
+tqdm
+
+
+==================================================================
+For assistance please contact ARC@advancedresearch-consulting.com  
+				  or advancedresearchconsulting@gmail.com   																	 
+==================================================================					
